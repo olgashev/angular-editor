@@ -1,6 +1,6 @@
 # Core AngularEditor
 
-Fork of @kolkov/angular-editor modified for specific fixes. Please use the original repo at https://github.com/kolkov/angular-editor.
+Fork of @kolkov/angular-editor modified for specific use. Please use the original repo at https://github.com/kolkov/angular-editor.
 
 ## Getting Started
 
